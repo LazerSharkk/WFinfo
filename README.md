@@ -111,6 +111,14 @@ C:\ProgramData\WFInfo
 ```
 To fully uninstall WFInfo, delete the program's directory and the folders listed above.
 
+### OR
+
+Paste this into your `Command Prompt`:
+```
+rmdir /s /q %appdata%\WFInfo
+rmdir /s /q C:\ProgramData\WFInfo
+```
+
 # Credits/Contact:
 
 **Kekasi:** u/RandomFacades (Reddit), Kekasi (Warframe), Kek#5390 (Discord)
