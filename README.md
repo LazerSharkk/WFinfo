@@ -104,10 +104,10 @@ If you really like this software, you even can post a review on the devs profile
 
 # Removal/Uninstall
 
-WFInfo currently utilizes the following folders (outside of installation directory):
+WFInfo currently (may) utilize the following folders (outside of installation directory):
 ```
-C:\ProgramData\WFInfo
 C:\Users\USERNAME\AppData\Roaming\WFInfo
+C:\ProgramData\WFInfo
 ```
 To fully uninstall WFInfo, delete the program's directory and the folders listed above.
 
