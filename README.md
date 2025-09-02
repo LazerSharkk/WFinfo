@@ -102,6 +102,15 @@ Search for specific items on the go with the press of 2 keys, you even can add t
 List your choosen prime rewards at the end of your mission by clicking the "Confirm Listing" buttons, even for multiple items.
 If you really like this software, you even can post a review on the devs profile by the press of one button !
 
+# Removal/Uninstall
+
+WFInfo currently utilizes the following folders (outside of installation directory):
+```
+C:\ProgramData\WFInfo
+C:\Users\USERNAME\AppData\Roaming\WFInfo
+```
+To fully uninstall WFInfo, delete the program's directory and the folders listed above.
+
 # Credits/Contact:
 
 **Kekasi:** u/RandomFacades (Reddit), Kekasi (Warframe), Kek#5390 (Discord)
